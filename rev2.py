@@ -2,7 +2,7 @@ String = "VindesPras123warPRA"
 numbers = []
 pre_123 = ""
 post_123 = ""
-
+print ("Develop 123...")
 for char in String:
     if char.isdigit():
         numbers.append(char)
